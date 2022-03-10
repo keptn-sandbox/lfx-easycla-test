@@ -4,4 +4,5 @@ Test repository for testing LFX EasyCLA. Try submitting a pull request to verify
 
 ## Contributors with signed CLA
 
-* Oleg Nenashev
+- Oleg Nenashev
+- Rajiv Ranjan Singh
