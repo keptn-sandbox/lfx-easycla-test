@@ -7,3 +7,4 @@ Test repository for testing LFX EasyCLA. Try submitting a pull request to verify
 - Oleg Nenashev
 - Rajiv Ranjan Singh
 - Christian Kreuzberger
+- Afzal Ansari
